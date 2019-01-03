@@ -6,6 +6,9 @@ import javax.persistence.GenerationType;
 import javax.persistence.Id;
 import java.io.Serializable;
 
+/**
+ * 顽强的小强
+ */
 @Entity
 public class User implements Serializable {
 	@Id
