@@ -1,0 +1,15 @@
+server:
+  port: 8888
+  context-path: /girls
+
+# 变量定义
+name: 貂蝉
+age: 200
+cupSize: D
+
+#变量properties
+girl:
+ name: 大乔
+ age: 17
+ cupSize: D
+
