@@ -1,0 +1,9 @@
+server:
+  port: 8888
+  context-path: /girls
+spring:
+  profiles:
+    active: dev
+
+
+
